@@ -1,10 +1,5 @@
 # Anonymous Supplementary Material
 
-This archive contains the code and datasets used in the ICLR 2027 submission
-*Strict Online Learning for Wild Streaming Data*. The main implementation is
-`OnlineNetTau025`, which uses causal feature normalization, bounded fast-to-slow
-modulation, and prequential logit adjustment with `tau = 0.25`.
-
 ## Directory structure
 
 ```text
