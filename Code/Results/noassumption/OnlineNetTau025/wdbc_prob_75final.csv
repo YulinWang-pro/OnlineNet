@@ -1,0 +1,2 @@
+,Num. Errors,Accuracy,AUROC,AUPRC,Bal. Accuracy,Time
+OnlineNetTau025_hidden_dim_64_num_layers_2_lr_0.001_optimizer_AdamW_logit_adjustment_tau_0.25,37.40(8.26),93.43(1.45),97.62(0.63),96.96(0.49),93.11(1.37),0.75(0.01)
