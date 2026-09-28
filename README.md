@@ -8,9 +8,9 @@
 
 <table align="center">
   <tr>
-    <td align="center"><strong>Best aggregate performance</strong><br><sub>Four cumulative metrics across 81 streaming conditions</sub></td>
-    <td align="center"><strong>0.5% parameters</strong><br><sub>On Spam, relative to the strongest competing baseline</sub></td>
-    <td align="center"><strong>Lower per-instance runtime</strong><br><sub>On three representative synthetic streams versus the strongest competing baseline</sub></td>
+    <td align="center"><strong>Best Overall Performance</strong></td>
+    <td align="center"><strong>0.5% of Baseline Parameters</strong></td>
+    <td align="center"><strong>Fast Online Updates</strong></td>
   </tr>
 </table>
 
