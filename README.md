@@ -1,4 +1,18 @@
-# Anonymous Supplementary Material
+<p align="center">
+  <img src="assets/onlinenet-hero.png" alt="A cheerful data-card mascot running through an open circular mark" width="900">
+</p>
+
+<h1 align="center">OnlineNet</h1>
+
+<p align="center"><strong>Strict Online Learning for Wild Streaming Data</strong></p>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Best aggregate performance</strong><br><sub>Four cumulative metrics across 81 streaming conditions</sub></td>
+    <td align="center"><strong>0.5% parameters</strong><br><sub>On Spam, relative to the strongest competing baseline</sub></td>
+    <td align="center"><strong>Lower per-instance runtime</strong><br><sub>On three representative synthetic streams versus the strongest competing baseline</sub></td>
+  </tr>
+</table>
 
 ## Directory structure
 
