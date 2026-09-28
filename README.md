@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/onlinenet-hero.png" alt="A cheerful data-card mascot running through an open circular mark" width="900">
+  <img src="onlinenet-hero.png" alt="" width="900">
 </p>
 
 <h1 align="center">OnlineNet</h1>
