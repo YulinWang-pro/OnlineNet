@@ -9,8 +9,8 @@
 <table align="center">
   <tr>
     <td align="center"><strong>Best Overall Performance</strong></td>
-    <td align="center"><strong>0.5% of Baseline Parameters</strong></td>
-    <td align="center"><strong>Fast Online Updates</strong></td>
+    <td align="center"><strong>Ultra-Low Parameter Count</strong></td>
+    <td align="center"><strong>Exceptional Computational Efficiency</strong></td>
   </tr>
 </table>
 
